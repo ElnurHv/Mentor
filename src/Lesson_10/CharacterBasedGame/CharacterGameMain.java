@@ -1,8 +1,5 @@
 package Lesson_10.CharacterBasedGame;
 
-import Lesson_10.CharacterBasedGame.Mage;
-import Lesson_10.CharacterBasedGame.Warrior;
-
 import java.util.Scanner;
 
 public class CharacterGameMain {

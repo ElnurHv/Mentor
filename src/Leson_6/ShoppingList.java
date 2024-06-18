@@ -1,7 +1,5 @@
 package Leson_6;
 
-import java.util.Arrays;
-
 public class ShoppingList {
     Item[] item;
     int itemCount;

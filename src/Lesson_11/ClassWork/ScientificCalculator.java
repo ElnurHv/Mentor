@@ -1,7 +1,5 @@
 package Lesson_11.ClassWork;
 
-import Lesson_11.ClassWork.ClassWorkCalculator;
-
 public class ScientificCalculator extends ClassWorkCalculator {
 
 
