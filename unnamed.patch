@@ -1,0 +1,65 @@
+Index: src/Leson_6/ShoppingList.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Leson_6/ShoppingList.java b/src/Leson_6/ShoppingList.java
+--- a/src/Leson_6/ShoppingList.java	(revision 755bf2d19446ea95c4c0d9e7e0d10975cb56b31c)
++++ b/src/Leson_6/ShoppingList.java	(revision a0fa718a6217f5337a153bcdb5f0d29e16e250d5)
+@@ -1,7 +1,5 @@
+ package Leson_6;
+ 
+-import java.util.Arrays;
+-
+ public class ShoppingList {
+     Item[] item;
+     int itemCount;
+Index: src/Lesson_10/CharacterBasedGame/CharacterGameMain.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Lesson_10/CharacterBasedGame/CharacterGameMain.java b/src/Lesson_10/CharacterBasedGame/CharacterGameMain.java
+--- a/src/Lesson_10/CharacterBasedGame/CharacterGameMain.java	(revision 755bf2d19446ea95c4c0d9e7e0d10975cb56b31c)
++++ b/src/Lesson_10/CharacterBasedGame/CharacterGameMain.java	(revision a0fa718a6217f5337a153bcdb5f0d29e16e250d5)
+@@ -1,8 +1,5 @@
+ package Lesson_10.CharacterBasedGame;
+ 
+-import Lesson_10.CharacterBasedGame.Mage;
+-import Lesson_10.CharacterBasedGame.Warrior;
+-
+ import java.util.Scanner;
+ 
+ public class CharacterGameMain {
+Index: src/Lesson_11/ClassWork/ScientificCalculator.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Lesson_11/ClassWork/ScientificCalculator.java b/src/Lesson_11/ClassWork/ScientificCalculator.java
+--- a/src/Lesson_11/ClassWork/ScientificCalculator.java	(revision 755bf2d19446ea95c4c0d9e7e0d10975cb56b31c)
++++ b/src/Lesson_11/ClassWork/ScientificCalculator.java	(revision a0fa718a6217f5337a153bcdb5f0d29e16e250d5)
+@@ -1,7 +1,5 @@
+ package Lesson_11.ClassWork;
+ 
+-import Lesson_11.ClassWork.ClassWorkCalculator;
+-
+ public class ScientificCalculator extends ClassWorkCalculator {
+ 
+ 
+Index: src/Lesson_5/StudentGrade.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Lesson_5/StudentGrade.java b/src/Lesson_5/StudentGrade.java
+--- a/src/Lesson_5/StudentGrade.java	(revision 755bf2d19446ea95c4c0d9e7e0d10975cb56b31c)
++++ b/src/Lesson_5/StudentGrade.java	(revision a0fa718a6217f5337a153bcdb5f0d29e16e250d5)
+@@ -1,7 +1,5 @@
+ package Lesson_5;
+ 
+-import java.util.Scanner;
+-
+ public class StudentGrade {
+     String name;
+     int age;
